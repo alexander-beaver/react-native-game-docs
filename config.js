@@ -6,7 +6,7 @@ const config = {
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://alexbeaver.com,
+		"logoLink": "https://alexbeaver.com",
 		"title": "React Native Game Documentation",
 		"githubUrl": "https://github.com/alexander-beaver/react-native-game-docs",
 		"helpUrl": "",
