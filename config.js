@@ -28,7 +28,8 @@ const config = {
     		"/gettingstarted"
 		],
     	"collapsedNav": [
-      		"/codeblock"
+			"/installExpo",
+			  "/createAProject"
     	],
 		"links": [
 			{ "text": "Personal Website", "link": "https://alexbeaver.com"},

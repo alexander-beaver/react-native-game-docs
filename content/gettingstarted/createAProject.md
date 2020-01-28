@@ -13,4 +13,6 @@ expo init
 ```
 
 and fill out the form. Submit the form by pressing enter.
-<iframe frameborder="0" scrolling="no" width="1092" height="614" src="https://api.smugmug.com/services/embed/9199859602_f67H4SZ?width=1092&height=614&albumId=205623001&albumKey=DxNTwV"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RUy02ryxZy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Expo will automatically create your project.
