@@ -25,13 +25,13 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
+    		"/gettingstarted"
 		],
     	"collapsedNav": [
       		"/codeblock"
     	],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Personal Website", "link": "https://alexbeaver.com"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
