@@ -7,7 +7,7 @@ const config = {
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
+		"title": "React Native Game Documentation",
 		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
 		"helpUrl": "",
 		"tweetText": "",
@@ -25,7 +25,12 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/gettingstarted"
+			"/gettingstarted",
+
+
+			
+			"/installExpo",
+			  "/createAProject"
 		],
     	"collapsedNav": [
 			"/installExpo",
