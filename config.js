@@ -6,9 +6,9 @@ const config = {
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
+		"logoLink": "https://alexbeaver.com,
 		"title": "React Native Game Documentation",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"githubUrl": "https://github.com/alexander-beaver/react-native-game-docs",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -29,12 +29,10 @@ const config = {
 
 
 			
-			"/installExpo",
-			  "/createAProject"
+			
 		],
     	"collapsedNav": [
-			"/installExpo",
-			  "/createAProject"
+			
     	],
 		"links": [
 			{ "text": "Personal Website", "link": "https://alexbeaver.com"},
