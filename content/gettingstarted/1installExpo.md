@@ -1,6 +1,6 @@
 ---
 title: "Install Expo"
-metaTitle: "Learn how to install Expo on your computer"
+metaTitle: "Install Expo"
 metaDescription: "Learn how to install Expo on your computer"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Install React Navigation"
-metaTitle: "Learn how to add React Navigation to your project"
+metaTitle: "Add React Navigation"
 metaDescription: "Learn how to add React Navigation to your project"
 ---
 
