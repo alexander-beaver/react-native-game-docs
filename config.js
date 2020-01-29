@@ -41,8 +41,8 @@ const config = {
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "React Native Docs",
+		"description": "Documentation on how to make a game in React Native ",
 		"ogImage": null,
 		"docsLocation": "https://github.com/alexander-beaver/react-native-game-docs/tree/master/content",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
