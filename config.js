@@ -5,7 +5,7 @@ const config = {
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
+		"logo": "https://photos.smugmug.com/Misc/WHS/n-QWxvWP/RN-Game-Media/i-Zn756jz/0/5632868b/S/React%20Native%20Docs%20Icon-S.png",
 		"logoLink": "https://rn.docs.bz",
 		"title": "React Native Game Documentation",
 		"githubUrl": "https://github.com/alexander-beaver/react-native-game-docs",
