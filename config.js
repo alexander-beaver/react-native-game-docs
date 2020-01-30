@@ -5,7 +5,7 @@ const config = {
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://photos.smugmug.com/Misc/WHS/n-QWxvWP/RN-Game-Media/i-Zn756jz/0/5632868b/S/React%20Native%20Docs%20Icon-S.png",
+		"logo": "https://photos.smugmug.com/Misc/WHS/n-QWxvWP/RN-Game-Media/i-HnsBvWb/0/49e5df36/S/download-S.png",
 		"logoLink": "https://rn.docs.bz",
 		"title": "React Native Game Documentation",
 		"githubUrl": "https://github.com/alexander-beaver/react-native-game-docs",
@@ -46,7 +46,7 @@ const config = {
 		"description": "Documentation on how to make a game in React Native ",
 		"ogImage": null,
 		"docsLocation": "https://github.com/alexander-beaver/react-native-game-docs/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"favicon": "https://photos.smugmug.com/Misc/WHS/n-QWxvWP/RN-Game-Media/i-HnsBvWb/0/49e5df36/Ti/download-Ti.png"
 	},
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
@@ -54,8 +54,8 @@ const config = {
 			"name": "Gatsby Gitbook Starter",
 			"short_name": "GitbookStarter",
 			"start_url": "/",
-			"background_color": "#6b37bf",
-			"theme_color": "#6b37bf",
+			"background_color": "#4A728C",
+			"theme_color": "#4A728C",
 			"display": "standalone",
 			"crossOrigin": "use-credentials",
 			icons: [
