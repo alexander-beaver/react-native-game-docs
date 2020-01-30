@@ -1,18 +1,18 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://r.docs.bz",
+		"siteUrl": "https://rn.docs.bz",
 		"gaTrackingId": null
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://alexbeaver.com",
+		"logoLink": "https://rn.docs.bz",
 		"title": "React Native Game Documentation",
 		"githubUrl": "https://github.com/alexander-beaver/react-native-game-docs",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
-			{ "text": "", "link": ""}
+			{ "text": "Project Github", "link": "https://github.com/alexander-beaver/react-native-game"}
 		],
 		"search": {
 			"enabled": false,

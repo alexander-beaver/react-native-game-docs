@@ -1,5 +1,6 @@
 ---
 title: "Flexbox Layout"
+metaTitle: "Flexbox"
 
 ---
 
