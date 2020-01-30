@@ -1,7 +1,7 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://r.docs.bz",
 		"gaTrackingId": null
 	},
 	"header": {
@@ -26,6 +26,7 @@ const config = {
 		"forcedNavOrder": [
 			"/introduction",
 			"/gettingstarted",
+			"/projectStructure"
 
 
 			
