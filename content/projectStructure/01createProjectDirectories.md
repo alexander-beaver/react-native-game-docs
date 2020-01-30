@@ -1,6 +1,6 @@
 ---
 title: "Create Project Directories"
-metaTitle: "Learn how to create your project directories"
+metaTitle: "Create Project Directories"
 metaDescription: "Learn how to create your project directories"
 ---
 

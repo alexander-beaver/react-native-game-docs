@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3fdc027-b1a6-408a-92a9-e8c24533e58b/deploy-status)](https://app.netlify.com/sites/rndocs/deploys)
 # gatsby-gitbook-starter
 
 Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
