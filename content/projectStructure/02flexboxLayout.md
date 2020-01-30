@@ -60,7 +60,7 @@ render(){
         return(
             <View style={[this.styles.flexCol, this.styles.full]}>
                 <View style={[this.styles.flex5]}>
-                    <Text>Hello</Text>
+                    <Text>Placeholder for battle iamge</Text>
                 </View>
 
                 <View style={[this.styles.flexRow, this.styles.flex1]}>
@@ -83,4 +83,6 @@ render(){
         );
     }
 ```
+When we run it, it looks like the following:
 
+![Screenshot](https://photos.smugmug.com/Misc/WHS/n-QWxvWP/RN-Game-Media/i-GVSXDVt/0/32f87737/L/IMG_0819-L.png)
